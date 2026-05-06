@@ -36,5 +36,7 @@ To perform binary classification using multiple ML algorithms and compare their 
 - Difference between precision & recall  
 - Model comparison in classification problems  
 
-## 🚀 How to Run
-1. Install dependencies:
+## 📊 Model Performance Precision score
+- Logistic Regression Accuracy:0.7903225806451613
+- KNN Accuracy: 0.5957446808510638
+- Naive Bayes Accuracy: 0.7966101694915254
